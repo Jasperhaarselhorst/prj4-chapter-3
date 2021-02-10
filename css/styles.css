@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{ 
+background-color: #B0FFF0
+
+}
+
+#jasper{
+	color: blue;
+	
+}
+#denise{
+	
+	color: blueviolet;
+}
+
+#Text {font-family: 'Lobster', cursive;
+}
+.myheader{
+    width: 100%;
+    height: 300px;
+    background-image: url(../image/No-Branding-Header-Bg-1.jpg);
+	border: medium solid #FF0004;
+    border-spacing: 0px 0px;
+}
